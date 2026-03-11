@@ -65,7 +65,7 @@ Sin embargo, también tiene características de **Platform as a Service (PaaS)**
 
 Notebook utilizado en la clase:
 
-- **[`_Aula_4_Python_en_Nube`](https://github.com/letpires/FundamentosNuvem/blob/main/%F0%9F%93%93_Aula_4_Python_e_Nuvem.ipynb)**
+- **[`_Aula_4_Python_en_Nube`](https://github.com/YoannaHS/Alura_Fundamentos_Computacion_Nube/blob/main/_Aula_4_Python_en_Nube.ipynb)**
 
 ---
 
